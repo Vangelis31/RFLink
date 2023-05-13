@@ -44,7 +44,7 @@
 #define PLUGIN_034 // Cresta
 #define PLUGIN_035 // Imagintronix
 #define PLUGIN_036 // F007_TH
-#define PLUGIN_037 // Accurite 986 Thermometer
+//#define PLUGIN_037 // Accurite 986 Thermometer
 #define PLUGIN_040 // Mebus
 #define PLUGIN_041 // LaCrosse v3 ws7000
 #define PLUGIN_042 // UPM/Esic
@@ -65,7 +65,7 @@
 // -------------------
 // Doorbells
 // -------------------
-#define PLUGIN_070 // Select Plus (Action - Quhwa)
+//#define PLUGIN_070 // Select Plus (Action - Quhwa)
 #define PLUGIN_071 // Plieger York
 #define PLUGIN_072 // Byron SX doorbell
 #define PLUGIN_073 // Deltronic doorbell
